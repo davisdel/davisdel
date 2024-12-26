@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Web Developer
 
 *   🌍  I'm based in Tennessee
-*   🖥️  See my portfolio at [davisdel.duckdns.org](http://davisdel.duckdns.org)
+*   🖥️  See my portfolio at [portfolio.davisdel.com](https://portfolio.davisdel.com)
 *   ✉️  You can contact me at [davisdeloach@gmail.com](mailto:davisdeloach@gmail.com)<a href="https://www.github.com/davisdel" target="_blank" rel="noreferrer">
 
 <img src="https://img.shields.io/github/followers/davisdel?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
